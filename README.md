@@ -26,4 +26,5 @@ I'm Wahid and I don't consider myself a developer but since infrastructure is co
 |🔭 [LinkedIn](https://www.linkedin.com/in/wahidsaleemi)|
 |👯 [KeyBase](https://keybase.io/wahidsaleemi)
 | :lock: [pgp 26D6 48BC 36B7 50EA](https://keybase.io/wahidsaleemi/pgp_keys.asc?fingerprint=067c9817ff1c9d257ad646e926d648bc36b750ea)|
+| or [HKS](http://hkps.pool.sks-keyservers.net/pks/lookup?op=get&search=0x26D648BC36B750EA) / [MIT](https://pgp.mit.edu/pks/lookup?search=0x26d648bc36b750ea) / [Ubuntu](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x26d648bc36b750ea) / [Github](onewahidlive.asc)|
 | :statue_of_liberty: [bitcoin](39WeeCNyt5kbyxCKB2U5cWhqyigP6vASaj)|
