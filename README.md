@@ -10,13 +10,17 @@
 - Complete list here: https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
 
-I'm Wahid and I don't consider myself a developer but since infrastructure is code now, I guess I need to learn som things. I architect awesome cloud solutions at [Microsoft](http://www.microsoft.com)
+I'm Wahid and I don't consider myself a developer but since infrastructure is code now, I guess I need to learn som things. I architect awesome cloud solutions at [Microsoft](https://www.microsoft.com)
 
 - 🌱 I blog (infrequently) on my [Cloud Collaboration blog](http://www.wahidsaleemi.com).
 - 💬 Ask me about Azure infrastructure and ARM templates; I dabble in home automation and finance too.
 - 💰 See my certifications on [Acclaim](https://www.youracclaim.com/users/wahid-saleemi).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I hacked a public institution when I was 14. They called me to come in and see their IT director. It was either to give me a job or arrest me; I didn't show up.
+
+## My tools
+
+Check out [my tools list](mytools.md) to learn about what I use for development.
 
 ## Contact
 
