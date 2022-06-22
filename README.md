@@ -10,7 +10,7 @@
 - Complete list here: https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
 
-I'm Wahid and I don't consider myself a developer but since infrastructure is code now, I guess I need to learn som things. I architect awesome cloud solutions at [Microsoft](https://www.microsoft.com)
+I'm Wahid and I don't consider myself a developer but since infrastructure is code now, I guess I need to learn some things. I architect awesome cloud solutions at [Microsoft](https://www.microsoft.com)
 
 - 🌱 I blog (infrequently) on my [Cloud Collaboration blog](http://www.wahidsaleemi.com).
 - 💬 Ask me about Azure infrastructure and ARM templates; I dabble in home automation and finance too.
