@@ -30,4 +30,4 @@ Check out [my tools list](mytools.md) to learn about what I use for development.
 |👯 [KeyBase](https://keybase.io/wahidsaleemi)
 | :lock: [pgp 26D6 48BC 36B7 50EA](https://keys.openpgp.org/search?q=067C9817FF1C9D257AD646E926D648BC36B750EA)|
 | or [HKS](http://hkps.pool.sks-keyservers.net/pks/lookup?op=get&search=0x26D648BC36B750EA) / [MIT](https://pgp.mit.edu/pks/lookup?search=0x26d648bc36b750ea) / [Ubuntu](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x26d648bc36b750ea) / [Github](onewahidlive.asc) / [Keybase](https://keybase.io/wahidsaleemi/pgp_keys.asc?fingerprint=067c9817ff1c9d257ad646e926d648bc36b750ea)|
-| :statue_of_liberty: [bitcoin](bc1qksrgvmygwref3nag0p0v534jzhnyjhf5j4cajwt33t7a9ehz0epqzvnaau)|
+| :statue_of_liberty: [bitcoin](https://nacho.io/wahid@bitcoin)|
